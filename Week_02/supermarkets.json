@@ -1,0 +1,380 @@
+[
+    {
+        "type": "node",
+        "id": 33126515,
+        "lat": 47.1556157,
+        "lon": 9.0379152,
+        "tags": {
+            "brand": "Spar",
+            "brand:wikidata": "Q610492",
+            "brand:wikipedia": "en:SPAR (retailer)",
+            "name": "Spar",
+            "opening_hours": "Mo-Th 08:00-19:00; Fr 08:00-20:00; Sa 08:00-17:00",
+            "shop": "supermarket"
+        }
+    },
+    {
+        "type": "node",
+        "id": 36726161,
+        "lat": 47.2261912,
+        "lon": 8.9803292,
+        "tags": {
+            "addr:city": "Uznach",
+            "addr:housenumber": "25",
+            "addr:postcode": "8730",
+            "addr:street": "Z\u00fcrcherstrasse",
+            "alt_name": "Migros Uznach (MM)",
+            "branch": "Uznach Frohsinn",
+            "brand": "Migros",
+            "brand:wikidata": "Q680727",
+            "brand:wikipedia": "de:Migros",
+            "cash_withdrawal": "migros_bank;postfinance_card",
+            "cash_withdrawal:fee": "no",
+            "cash_withdrawal:purchase_required": "no",
+            "cash_withdrawal:type": "checkout",
+            "name": "Migros",
+            "opening_hours": "Mo-Th 08:00-19:00, Fr 08:00-20:00, Sa 07:30-17:00; PH off",
+            "operator": "Genossenschaft Migros Z\u00fcrich",
+            "shop": "supermarket",
+            "website": "https://filialen.migros.ch/de/migros-supermarkt-uznach-frohsinn"
+        }
+    },
+    {
+        "type": "node",
+        "id": 39768209,
+        "lat": 47.2250689,
+        "lon": 8.9699805,
+        "tags": {
+            "addr:city": "Uznach",
+            "addr:postcode": "8730",
+            "alt_name": "Coop Linthpark",
+            "branch": "Uznach Linthpark",
+            "brand": "Coop",
+            "brand:wikidata": "Q432564",
+            "name": "Coop",
+            "operator": "Coop Genossenschaft",
+            "shop": "supermarket",
+            "wheelchair": "yes"
+        }
+    },
+    {
+        "type": "node",
+        "id": 39947904,
+        "lat": 47.3767316,
+        "lon": 8.5421608,
+        "tags": {
+            "addr:city": "Z\u00fcrich",
+            "addr:country": "CH",
+            "addr:housenumber": "1",
+            "addr:postcode": "8001",
+            "addr:street": "Bahnhofbr\u00fccke",
+            "brand": "Coop",
+            "brand:wikidata": "Q432564",
+            "brand:wikipedia": "de:Coop (Schweiz)",
+            "check_date": "2022-06-25",
+            "check_date:opening_hours": "2022-09-22",
+            "name": "Coop",
+            "opening_hours": "Mo-Sa 06:00-22:00",
+            "operator": "Coop Genossenschaft",
+            "shop": "supermarket",
+            "wheelchair": "yes"
+        }
+    },
+    {
+        "type": "node",
+        "id": 48932835,
+        "lat": 47.37502,
+        "lon": 8.522895,
+        "tags": {
+            "addr:city": "Z\u00fcrich",
+            "addr:housenumber": "7",
+            "addr:postcode": "8004",
+            "addr:street": "Wengistrasse",
+            "alt_name": "Migros Wengihof",
+            "branch": "Z\u00fcrich Wengihof",
+            "brand": "Migros",
+            "brand:wikidata": "Q680727",
+            "level": "0",
+            "name": "Migros",
+            "opening_hours": "Mo-Sa 08:00-21:00; PH off",
+            "operator": "Genossenschaft Migros Z\u00fcrich",
+            "shop": "supermarket",
+            "source:opening_hours": "survey",
+            "takeaway": "yes",
+            "website": "https://filialen.migros.ch/de/migros-supermarkt-zuerich-wengihof",
+            "wheelchair": "yes"
+        }
+    },
+    {
+        "type": "node",
+        "id": 60271452,
+        "lat": 47.4066706,
+        "lon": 9.3054501,
+        "tags": {
+            "name": "Westcenter",
+            "shop": "supermarket",
+            "wheelchair": "yes"
+        }
+    },
+    {
+        "type": "node",
+        "id": 70656485,
+        "lat": 47.4912535,
+        "lon": 8.733981,
+        "tags": {
+            "name": "Mini-Discount",
+            "shop": "supermarket"
+        }
+    },
+    {
+        "type": "node",
+        "id": 70656488,
+        "lat": 47.4918744,
+        "lon": 8.7064484,
+        "tags": {
+            "addr:city": "Winterthur",
+            "addr:housenumber": "102",
+            "addr:postcode": "8406",
+            "addr:street": "Z\u00fcrcherstrasse",
+            "alt_name": "Migros T\u00f6ss",
+            "branch": "Winterthur T\u00f6ss",
+            "brand": "Migros",
+            "brand:wikidata": "Q680727",
+            "cash_withdrawal": "migros_bank;postfinance_card",
+            "cash_withdrawal:fee": "no",
+            "cash_withdrawal:purchase_required": "no",
+            "cash_withdrawal:type": "checkout",
+            "name": "Migros",
+            "opening_hours": "Mo-Fr 07:30-20:00; PH off; Sa 08:00-19:00",
+            "operator": "Genossenschaft Migros Ostschweiz",
+            "shop": "supermarket",
+            "website": "https://filialen.migros.ch/de/migros-supermarkt-winterthur-toess",
+            "wheelchair": "yes"
+        }
+    },
+    {
+        "type": "node",
+        "id": 75749133,
+        "lat": 47.3409666,
+        "lon": 8.5306007,
+        "tags": {
+            "addr:city": "Z\u00fcrich",
+            "addr:country": "CH",
+            "addr:housenumber": "81",
+            "addr:postcode": "8038",
+            "addr:street": "Albisstrasse",
+            "brand": "ALDI",
+            "brand:wikidata": "Q41171672",
+            "brand:wikipedia": "hu:Aldi S\u00fcd",
+            "check_date": "2023-06-16",
+            "name": "ALDI",
+            "opening_hours": "Mo-Sa 07:30-21:00",
+            "operator": "Aldi Suisse",
+            "shop": "supermarket",
+            "website": "https://www.aldi-suisse.ch/"
+        }
+    },
+    {
+        "type": "node",
+        "id": 79977755,
+        "lat": 47.3400698,
+        "lon": 8.5305461,
+        "tags": {
+            "addr:city": "Z\u00fcrich",
+            "addr:country": "CH",
+            "addr:housenumber": "15",
+            "addr:postcode": "8038",
+            "addr:street": "Alte Kalchb\u00fchlstrasse",
+            "alt_name": "Coop Wollishofen",
+            "branch": "Z\u00fcrich Wollishofen",
+            "brand": "Coop",
+            "brand:wikidata": "Q432564",
+            "brand:wikipedia": "de:Coop (Schweiz)",
+            "name": "Coop",
+            "opening_hours": "Mo-Sa 07:30-21:00",
+            "operator": "Coop Genossenschaft",
+            "shop": "supermarket",
+            "website": "https://www.coop.ch/",
+            "wheelchair": "yes"
+        }
+    },
+    {
+        "type": "node",
+        "id": 81321513,
+        "lat": 47.5329168,
+        "lon": 9.0664081,
+        "tags": {
+            "brand": "Landi",
+            "brand:wikidata": "Q1803010",
+            "brand:wikipedia": "de:Landi (Unternehmen)",
+            "name": "Landi",
+            "opening_hours": "Mo-Sa 08:00-12:00, 13:30-18:00",
+            "shop": "supermarket"
+        }
+    },
+    {
+        "type": "node",
+        "id": 83330862,
+        "lat": 47.3447487,
+        "lon": 8.5299814,
+        "tags": {
+            "addr:city": "Z\u00fcrich",
+            "addr:country": "CH",
+            "addr:housenumber": "3",
+            "addr:postcode": "8038",
+            "addr:street": "Etzelstrasse",
+            "alt_name": "Migros Wollishofen (MM)",
+            "branch": "Z\u00fcrich Wollishofen",
+            "brand": "Migros",
+            "brand:wikidata": "Q680727",
+            "brand:wikipedia": "en:Migros",
+            "check_date": "2023-06-16",
+            "check_date:opening_hours": "2022-06-11",
+            "name": "Migros",
+            "opening_hours": "Mo-Sa 07:30-21:00; PH off",
+            "operator": "Genossenschaft Migros Z\u00fcrich",
+            "shop": "supermarket",
+            "website": "https://filialen.migros.ch/de/migros-supermarkt-zuerich-wollishofen",
+            "wheelchair": "yes"
+        }
+    },
+    {
+        "type": "node",
+        "id": 94635618,
+        "lat": 47.1820486,
+        "lon": 7.9825542,
+        "tags": {
+            "addr:city": "Sch\u00f6tz",
+            "addr:housenumber": "5",
+            "addr:postcode": "6247",
+            "addr:street": "Sch\u00fcrmatt",
+            "brand": "ALDI",
+            "brand:wikidata": "Q41171672",
+            "brand:wikipedia": "hu:Aldi S\u00fcd",
+            "name": "ALDI",
+            "operator": "Aldi Suisse AG",
+            "phone": "+41 41 980 68 31",
+            "shop": "supermarket",
+            "wheelchair": "yes"
+        }
+    },
+    {
+        "type": "node",
+        "id": 95582038,
+        "lat": 47.0503853,
+        "lon": 9.0592144,
+        "tags": {
+            "cash_withdrawal": "postfinance_card",
+            "cash_withdrawal:fee": "no",
+            "cash_withdrawal:purchase_required": "no",
+            "cash_withdrawal:type": "checkout",
+            "check_date": "2023-08-12",
+            "name": "Spar",
+            "opening_hours": "Mo-Su 09:00-21:00;PH off",
+            "shop": "supermarket",
+            "source:opening_hours": "survey",
+            "website": "https://www.spar.ch/standorte/detail/sm-glarus"
+        }
+    },
+    {
+        "type": "node",
+        "id": 97995346,
+        "lat": 47.0947404,
+        "lon": 9.0745369,
+        "tags": {
+            "addr:city": "Mollis",
+            "addr:housenumber": "4",
+            "addr:postcode": "8753",
+            "addr:street": "Bahnhofstrasse",
+            "brand": "Spar",
+            "brand:wikidata": "Q610492",
+            "brand:wikipedia": "en:Spar (retailer)",
+            "name": "Spar",
+            "opening_hours": "Mo-Fr 07:30-13:00, 19:00-19:00; Sa 07:30-16:00",
+            "shop": "supermarket",
+            "wheelchair": "yes"
+        }
+    },
+    {
+        "type": "node",
+        "id": 112148390,
+        "lat": 47.4487722,
+        "lon": 8.2150751,
+        "tags": {
+            "name": "Coop",
+            "shop": "supermarket",
+            "wheelchair": "yes"
+        }
+    },
+    {
+        "type": "node",
+        "id": 119249170,
+        "lat": 47.3752549,
+        "lon": 8.5361073,
+        "tags": {
+            "addr:city": "Z\u00fcrich",
+            "addr:country": "CH",
+            "addr:housenumber": "31-35",
+            "addr:postcode": "8001",
+            "addr:street": "L\u00f6wenstrasse",
+            "alt_name": "Migros City (MMM)",
+            "branch": "Z\u00fcrich City",
+            "brand": "Migros",
+            "brand:wikidata": "Q680727",
+            "brand:wikipedia": "de:Migros",
+            "level": "2;3",
+            "name": "Migros",
+            "opening_hours": "Mo-Sa 09:00-20:00; PH off",
+            "operator": "Genossenschaft Migros Z\u00fcrich",
+            "shop": "supermarket",
+            "website": "https://filialen.migros.ch/de/migros-supermarkt-zuerich-city",
+            "wheelchair": "yes"
+        }
+    },
+    {
+        "type": "node",
+        "id": 121994447,
+        "lat": 47.545863,
+        "lon": 7.5836046,
+        "tags": {
+            "brand": "Pam",
+            "brand:wikidata": "Q105615038",
+            "name": "Pam",
+            "shop": "supermarket"
+        }
+    },
+    {
+        "type": "node",
+        "id": 124140239,
+        "lat": 47.2414948,
+        "lon": 8.7183709,
+        "tags": {
+            "addr:city": "St\u00e4fa",
+            "addr:housenumber": "11",
+            "addr:postcode": "8712",
+            "addr:street": "H\u00e4ldelistrasse",
+            "branch": "Suisse",
+            "brand": "ALDI",
+            "brand:wikidata": "Q41171672",
+            "brand:wikipedia": "hu:Aldi S\u00fcd",
+            "name": "ALDI",
+            "opening_hours": "Mo-Sa 08:00-20:00",
+            "shop": "supermarket",
+            "wheelchair": "limited"
+        }
+    },
+    {
+        "type": "node",
+        "id": 11129298207,
+        "lat": 47.5375176,
+        "lon": 7.6085807,
+        "tags": {
+            "brand": "Coop",
+            "brand:wikidata": "Q432564",
+            "name": "Coop",
+            "opening_hours": "Mo-Fr 7:00-19:00; Sa 08:00-17:00; PH off",
+            "shop": "supermarket",
+            "website": "https://www.coop.ch/de/standorte/coop-supermarkt-basel-irene-zurkinden-platz/5795_POS"
+        }
+    }
+]
